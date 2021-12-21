@@ -8,5 +8,5 @@
 ## Run / Akses
 - Buat database dengan nama `pariwisatalamongan` kemudian import file `pariwisatalamongan.sql`
 - Jalankan server Apache dan Database Mysql
-- Untuk masuk ke tampilan user, bisa mengakses `localhost/user/`
+- Untuk masuk ke tampilan user, bisa mengakses `localhost/user/` (sesuaikan dengan direktori anda)
 - Atau juga bisa masuk ke folder `user` dengan `cmd`, kemudian jalankan `php -S localhost:'port server'`
